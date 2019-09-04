@@ -1,6 +1,6 @@
 # FacebookQuickMathsBot
 
-A bot for Quick Maths by Bill Zeng
+A bot for Quick Maths by @billzeng2k
 
 Demo: https://www.youtube.com/watch?v=gUTHDz9e6AI&feature=youtu.be
 
