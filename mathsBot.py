@@ -141,8 +141,6 @@ while True:
 		neg = False
 		for y in range(11):
 			for x in pyautogui.locateAllOnScreen(numbers[y], grayscale=True, region=(200,500, 600, 150), confidence=0.85):
-				#print("found ", y)
-				#print(x)
 				if x[0] < 350:
 					term[0] = y
 				elif x[0] < 450 and x[0] > 350:
